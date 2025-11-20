@@ -68,16 +68,16 @@ pip install -r requirements.txt
 
 Download ISIC 2016 Task 3
 
-```
+
 adjust directories in the notebook
-```
+
 
 Then run it
 
-```
 
 
 
-#  About This Project
+
+##  About This Project
 I built this to explore **self-supervised representation learning** beyond my usual UNet-based segmentation work.  
 It’s a compact experiment that shows how much a modern Vision Transformer already “knows” — even before finetuning.
