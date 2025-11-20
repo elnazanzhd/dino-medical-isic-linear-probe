@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/23652223/README.md)
+
 # DINOv2 Linear Probe on ISIC 2016  
 *Exploring self-supervised Vision Transformers for medical image understanding*
 
